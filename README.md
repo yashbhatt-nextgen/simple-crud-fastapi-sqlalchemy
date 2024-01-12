@@ -1,0 +1,1 @@
+# simple-crud-fastapi-sqlalchemy
